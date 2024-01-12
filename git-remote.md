@@ -23,10 +23,10 @@ $ git remote show origin
 * remote origin
   Fetch URL: https://github.com/kydechuk01/HW-01.git
   Push  URL: https://github.com/kydechuk01/HW-01.git
-  HEAD branch: main
+  HEAD branch: master
   Remote branches:
-    main   tracked
-    master tracked
+    master                   tracked
+    refs/remotes/origin/main stale (use 'git remote prune' to remove)
   Local branch configured for 'git pull':
     master merges with remote master
   Local ref configured for 'git push':

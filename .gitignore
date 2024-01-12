@@ -398,3 +398,4 @@ FodyWeavers.xsd
 *.sln.iml
 
 _temp_.md
+!git_ignore.md
