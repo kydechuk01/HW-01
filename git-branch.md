@@ -11,10 +11,14 @@
 Ветвь (*branch*) в git - это отдельная совокупность связанных друг с другом коммитов.
 
 
-Синтаксис:<br>
-* `git branch branch_name`  - создать новую ветку *branch_name*
+Варианты использования:<br>
+* `git branch [branch_name]`  - создать новую ветку *branch_name*
 * `git branch -a ` - вывести список текущих веток
-* `git branch -d branch_name` - удалить ветку *branch_name*
+* `git branch -d [branch_name]` - удалить ветку *branch_name*
+
+#### Дополнительно
+
+Команда `git merge [branch_name]` - сливает изменения ветки *branch_name* с текущей
 
 <br>
 
